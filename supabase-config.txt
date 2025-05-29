@@ -1,0 +1,4 @@
+# MeowTalkServer Configuration
+# Copy these values to your .env file
+NEXT_PUBLIC_SUPABASE_URL=https://iqofeyrgrdcietbsnkzw.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imlxb2ZleXJncmRjaWV0YnNua3p3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMyNDg0MjYsImV4cCI6MjA1ODgyNDQyNn0.Bt7BLdTQzrP98Euswd8q3pbfHVhaMmCU3lF0D9TUpqg
